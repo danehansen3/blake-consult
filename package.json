@@ -1,0 +1,13 @@
+{
+  "name": "shopify-subscription-lookup",
+  "version": "1.0.0",
+  "description": "Serverless function for Shopify subscription lookup",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify functions:serve",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": ["netlify", "functions", "serverless"],
+  "author": "",
+  "license": "MIT"
+}
